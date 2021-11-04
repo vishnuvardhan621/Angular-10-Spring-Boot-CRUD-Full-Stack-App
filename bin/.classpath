@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER"/>
+	<classpathentry excluding="springboot-backend/src/test/java/|springboot-backend/src/main/java/|springboot-backend/.mvn/wrapper/" kind="src" path=""/>
+	<classpathentry kind="src" path="springboot-backend/.mvn/wrapper"/>
+	<classpathentry kind="src" path="springboot-backend/src/main/java"/>
+	<classpathentry kind="src" path="springboot-backend/src/test/java"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>
